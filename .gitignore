@@ -1,0 +1,5 @@
+/tmp
+/cookbooks
+.DS_Store
+.vagrant
+/apps
